@@ -8,7 +8,7 @@
 <!--   <img src="https://media2.giphy.com/media/Xnq5qNeRpnrQZvX9Gq/giphy.gif?cid=790b7611601f146655c522acbf4da46e7a40622831f9cba3&rid=giphy.gif&ct=s" width="200"/> -->
 </div>
 <!-- <h2 align="center">Hello there  <img src="https://cdn-icons-png.flaticon.com/512/196/196849.png" width="50"/> My nickname is KULBOY </img> </h2> -->
-<h2 align="center"> LDT </h2>
+<h2 align="center"> LMT </h2>
 <h3 align="center">Just start</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulboy&label=Profile%20views&color=0e75b6&style=flat" alt="kulboy" /> </p> -->
